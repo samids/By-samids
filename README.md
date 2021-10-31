@@ -29,6 +29,12 @@ npm i github
 ```
 <span align="center">code: </span>
   ```javascript
-123
+require('git');
+    const Name = "Samids";
+  	let Age = 21;
+  	const Country = "Russia";
+  	const FavoriteLanguage = "C#/JS/Python";
+console.log ('Hi, my name is ' + Name + '.' + ' Me ' + Age + [] + ' years. I am from ' + Country + ', my favorite languages are: ' + FavoriteLanguage + '.')
+
 
 ```
