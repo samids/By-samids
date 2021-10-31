@@ -28,7 +28,7 @@ npm i github
 
 ```
 <span align="center">code: </span>
-  ```java
+  ```javascript
 123
 
 ```
