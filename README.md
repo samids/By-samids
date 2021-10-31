@@ -28,7 +28,7 @@ const Name = "Samids";
 let Age = 21;
 const Country = "Russia";
 const FavoriteLanguage = "C#/JS/Python";
-console.log ('Hi, my name is ' + Name + '.' + ' Me ' + Age + ' years. I am from ' + Country + ', my favorite languages are: ' + FavoriteLanguage + '.')
+console.log ('Hello, my name is ' + Name + '.' + ' Me ' + Age + ' years. I am from ' + Country + ', my favorite languages are: ' + FavoriteLanguage + '.')
   
 ```
   <h2 align="center">Result: </h2>
