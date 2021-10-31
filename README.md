@@ -21,7 +21,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samids&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
 </p>
-console
+<span align="center">Console: </span>
+  
   ```console
 npm i github
 
