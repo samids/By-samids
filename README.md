@@ -22,18 +22,19 @@
   </a>
 </p>
   
-<span align="center">Console: </span>
-  ```console
-npm i github
-
-```
-<span align="center">code: </span>
+<h2 align="center">JavaScript: </h2>
+  
   ```javascript
 const Name = "Samids";
 let Age = 21;
 const Country = "Russia";
 const FavoriteLanguage = "C#/JS/Python";
 console.log ('Hi, my name is ' + Name + '.' + ' Me ' + Age + ' years. I am from ' + Country + ', my favorite languages are: ' + FavoriteLanguage + '.')
-
-
+  
 ```
+  <h2 align="center">Result: </h2>
+  
+```console
+  Hi, my name is Samids. Me 21 years. I am from Russia, my favorite languages are: C#/JS/Python.
+```
+  
