@@ -23,6 +23,15 @@
 </p>
 
   ```javascript
-test
+
+  ```console
+npm i github
+
+```
+  
+  ```code
+123
+
+```
 
 ```
