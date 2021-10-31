@@ -33,7 +33,7 @@ console.log ('Hello, my name is ' + Name + '.' + ' Me ' + Age + ' years. I am fr
 ```
   <h2 align="center">Result: </h2>
   
-[CONSOLE]```console
+[CONSOLE] ```console
   Hi, my name is Samids. Me 21 years. I am from Russia, my favorite languages are: C#/JS/Python.
 ```
   
