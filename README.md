@@ -29,7 +29,6 @@ npm i github
 ```
 <span align="center">code: </span>
   ```javascript
-require('git');
     const Name = "Samids";
   	let Age = 21;
   	const Country = "Russia";
