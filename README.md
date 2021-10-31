@@ -29,9 +29,9 @@ let Age = 21;
 const Country = "Russia";
 const FavoriteLanguage = "C#/JS/Python";
 console.log ('Hello, my name is ' + Name + '.' + ' Me ' + Age + ' years. I am from ' + Country + ', my favorite languages are: ' + FavoriteLanguage + '.')
-  
 ```
   <h2 align="center">Result (Console): </h2>
+  
   ```console
   Hello, my name is Samids. Me 21 years. I am from Russia, my favorite languages are: C#/JS/Python.
 
