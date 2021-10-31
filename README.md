@@ -1,7 +1,7 @@
-# By-samids
+# Welcome to the profile By samids
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+guest my profile!;My+name+is+samids.;Welcome+to+my+profile!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+guest+my+profile!;My+name+is+samids.;Welcome+to+my+profile!&center=true&size=27">
   </a>
 </h1>
 
