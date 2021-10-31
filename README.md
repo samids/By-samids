@@ -33,9 +33,9 @@ console.log ('[CONSOLE] Hello, my name is ' + Name + '.' + ' Me ' + Age + ' year
 ```
   <h2 align="center">Result: </h2>
   ```console
-  
   [CONSOLE] Hello, my name is Samids. Me 21 years. I am from Russia, my favorite languages are: C#/JS/Python.
-```
+
+  ```
   
 <details align="right">By samids</details>
   
