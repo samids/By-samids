@@ -1,4 +1,3 @@
-# Welcome to the profile By samids
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+guest+my+profile!;My+name+is+samids.;Welcome+to+my+profile!&center=true&size=27">
@@ -37,4 +36,6 @@ console.log ('Hi, my name is ' + Name + '.' + ' Me ' + Age + ' years. I am from 
 ```console
   Hi, my name is Samids. Me 21 years. I am from Russia, my favorite languages are: C#/JS/Python.
 ```
+  
+<details align="right">By samids</details>
   
