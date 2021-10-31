@@ -22,8 +22,6 @@
   </a>
 </p>
 
-  ```javascript
-
   ```console
 npm i github
 
@@ -31,7 +29,5 @@ npm i github
   
   ```code
 123
-
-```
 
 ```
