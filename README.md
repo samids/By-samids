@@ -8,9 +8,10 @@
   
   [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samids)
   [![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bysamids.tk/)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jcJGAMPJef)
+  [![Discord](https://img.shields.io/discord/722183816684371978?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/jcJGAMPJef)
   [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/zenoviov)
   [![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](#)
+
   
 </h1>
 
@@ -63,8 +64,6 @@ console.log ('Hello, my name is ' + Name + '.' + ' Me ' + Age + ' years. I am fr
   
 <details align="right">
   By samids
-  
-  [![Join in our discord](https://discordapp.com/api/guilds/722183816684371978/widget.png)](https://discord.gg/jcJGAMPJef)
   
   </details>
   
