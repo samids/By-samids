@@ -1,9 +1,16 @@
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=%23F92672&lines=Hello,+Guest!;My+name+is+samids.;Welcome+to+my+profile!&center=true&size=30">
   </a>
+</p>
+
+<h1 align="center"> 
+  
+  [![Join in our discord](https://discordapp.com/api/guilds/722183816684371978/widget.png)](https://discord.gg/jcJGAMPJef)
+  
 </h1>
 
+<h3></h3>
 <p align="center">
   <a href="#">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=samids&theme=monokai&column=8&no-frame=true&no-bg=true">
