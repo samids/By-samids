@@ -27,8 +27,8 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://discord.c99.nl/widget/theme-1/310448835384049664.png" height="90">
-<img src="https://discordapp.com/api/guilds/722183816684371978/widget.png?style=banner2" height="90">
+    <img src="https://discord.c99.nl/widget/theme-1/310448835384049664.png" height="80">
+    <img src="https://discordapp.com/api/guilds/722183816684371978/widget.png?style=banner2" height="80">
     <img src="https://github-readme-stats.vercel.app/api?username=samids&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samids&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
