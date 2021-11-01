@@ -4,8 +4,10 @@
   </a>
 </p>
 
-<h1 align="center"> 
-  
+
+<h2 align="center"> 
+  <img src="https://img.shields.io/badge/AUTHOR-By%20Samids-black.svg?style=for-the-badge&logo=github">
+
   [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samids)
   [![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bysamids.tk/)
   [![Discord](https://img.shields.io/discord/722183816684371978?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/jcJGAMPJef)
@@ -13,9 +15,8 @@
   [![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](#)
 
   
-</h1>
+</h2>
 
-<h3></h3>
 <p align="center">
   <a href="#">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=samids&theme=monokai&column=8&no-frame=true&no-bg=true">
@@ -42,6 +43,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=000&logo=GNU+Bash&logoColor=FFFFFF&label=">    
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   </a>
 </p>
