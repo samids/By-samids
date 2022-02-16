@@ -6,10 +6,10 @@
 
 
 <h2 align="center"> 
-
+<a href="#">
 <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=AUTHOR&color=000&logo=github&logoColor=FFFFFF&label="> 
-<img align="center"  src="https://img.shields.io/static/v1?style=for-the-badge&message=By Samids&color=FFF&label="> 
-
+<img align="center"  src="https://img.shields.io/static/v1?style=for-the-badge&message=By+Samids&color=FFF&label="> 
+</a>
   
   [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samids)
   [![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bysamids.tk/)
