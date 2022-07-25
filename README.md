@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%23F92672&lines=Hello,+Guest!;My+name+is+Dimas.;Welcome+to+my+profile!&center=true&size=30">
+  <a>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=Hello,+Guest!;My+name+is+Dimas.;Welcome+to+my+profile!&center=true&size=30">
   </a>
 </p>
 
