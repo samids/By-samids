@@ -10,6 +10,8 @@
 <a href="#">
 <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=AUTHOR&color=000&logo=github&logoColor=FFFFFF&label="> 
 <img align="center"  src="https://img.shields.io/static/v1?style=for-the-badge&message=By+Samids&color=FFF&label="> 
+<br>
+<img align="center"  src="https://komarev.com/ghpvc/?username=samids&style=flat-square"> 
 </a>
   
   [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samids)
