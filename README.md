@@ -24,7 +24,7 @@
 </h2>
 
 <p align="center">
-  <a href="#">
+  <a href="#gitstat">
     <img align="center"  src="https://github-profile-trophy.vercel.app/?username=samids&theme=monokai&column=8&no-frame=true&no-bg=true">
   </a>
 </p>
@@ -33,7 +33,7 @@
 <h1 align="center">Stats: </h1>
 
 <p align="center">
-  <a href="#">
+  <a href="#discord">
     <img src="https://discord.c99.nl/widget/theme-1/310448835384049664.png" height="80">
     <img src="https://discordapp.com/api/guilds/722183816684371978/widget.png?style=banner2" height="80">
     <img src="https://github-readme-stats.vercel.app/api?username=samids&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <a href="#">
+  <a href="#lang">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
