@@ -12,6 +12,7 @@
 <img align="center"  src="https://img.shields.io/static/v1?style=for-the-badge&message=By+Samids&color=FFF&label="> 
 <br>
 <img align="center"  src="https://komarev.com/ghpvc/?username=samids&style=flat-square"> 
+<a href="https://wakatime.com/@0918cc7c-e0f6-483a-9060-eb8f8631f879"><img align="center" src="https://wakatime.com/badge/user/0918cc7c-e0f6-483a-9060-eb8f8631f879.svg" alt="Total time coded since Oct 16 2022" /></a>
 </a>
   
   [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samids)
